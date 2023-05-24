@@ -1,5 +1,5 @@
 [![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm alvaro</h1>
+<h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 <img align ="right" alt="coding" width="400" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
 
