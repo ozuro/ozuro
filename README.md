@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQF1AF0M6go62g/profile-displaybackgroundimage-shrink_350_1400/0/1684983156785?e=1691625600&v=beta&t=V7W7Xa7HkCAe6KkVOyWj0jbOb5DDn_yU9TYeoD9fSFQ)](https://alvaropacompia.com)
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
-<img align ="right" alt="coding" width="200" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
+<img align ="right" alt="coding" width="400" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
 
 
 
