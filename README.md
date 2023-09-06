@@ -19,7 +19,7 @@
 <p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://alvaropacompia.com" rel="nofollow">https://alvaropacompia.com</a></p>
 </li>
 <li>
-<p dir="auto">If you need development help, don't hesitate to contact me 😄😄😄 </p>
+<p dir="auto"><strong>If you need development help</strong>, don't hesitate to contact me 😄😄😄 </p>
 </li>
 </ul>
 
