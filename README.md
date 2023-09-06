@@ -4,7 +4,7 @@
 <img align ="right" alt="coding" width="400" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
 
 
-
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/379f3719205e17ddce3d3a912bc82799ef3b65cf7d96144d3699150c5f939d92/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6c6579736f6e6b6c617573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d323637626339267374796c653d666c6174"><img src="https://camo.githubusercontent.com/379f3719205e17ddce3d3a912bc82799ef3b65cf7d96144d3699150c5f939d92/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6c6579736f6e6b6c617573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d323637626339267374796c653d666c6174" alt="kleysonklaus" data-canonical-src="https://komarev.com/ghpvc/?username=kleysonklaus&amp;label=Profile%20views&amp;color=267bc9&amp;style=flat" style="max-width: 100%;"></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://web.facebook.com/alvaro.pacompialerma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/alvaro.pacompialerma" height="30" width="40" /></a>
