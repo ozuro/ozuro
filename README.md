@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQF1AF0M6go62g/profile-displaybackgroundimage-shrink_350_1400/0/1684983156785?e=1698278400&v=beta&t=G-UsN7cTlGbewwhM2uSD3HEXa3iwXAJWFy-foBSeXPc)](https://alvaropacompia.com)
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQF1AF0M6go62g/profile-displaybackgroundimage-shrink_350_1400/0/1684983159630?e=1709164800&v=beta&t=RAoYqC1Ybke_M-c_acOmrItheEZKZA9Py4kkBpev0TQ)](https://alvaropacompia.com)
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 <img align ="right" alt="coding" width="400" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
