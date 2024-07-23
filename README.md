@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/a0/71/4d/a0714d7f87198dd9a5e3962a8d5273cf.jpg)](https://alvaropacompia.com)
+[![MasterHead](https://media.istockphoto.com/id/1146517034/es/foto/arquitectura-moderna-en-par%C3%ADs.jpg?s=1024x1024&w=is&k=20&c=lcDMAJ4W2kG5KjC8o_V8qlxM_uJCLz5WOv78q2_7oNE=)](https://alvaropacompia.com)
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 <img align ="right" alt="coding" width="400" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
