@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from Peru</h3>
 <img align ="right" alt="coding" width="300" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Frostiron_Raider_Fist_Loadout.gif/revision/latest?cb=20170402223623">
 
+<img src="https://camo.githubusercontent.com/1a99b4b642687e82bb2e1e6d7d58c30aa965cd75d8f5be80e0373f87d664255b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6c6579736f6e6b6c617573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d323637626339267374796c653d666c6174" alt="kleysonklaus" data-canonical-src="https://komarev.com/ghpvc/?username=kleysonklaus&amp;label=Profile%20views&amp;color=267bc9&amp;style=flat" style="max-width: 100%;">
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
