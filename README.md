@@ -13,7 +13,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">😎 I’m currently learning <strong>Frontend Developer.</strong></p>
+<p dir="auto">😎 I’m currently learning <strong>Developer.</strong></p>
 </li>
 <li>
 <p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://alvaropacompia.com" rel="nofollow">https://alvaropacompia.com</a></p>
